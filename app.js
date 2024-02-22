@@ -1,7 +1,7 @@
 const $ = document;
 const bodyElem = $.body;
 
-const radioBtns = $.querySelectorAll("#radio-btn-points");
+const radioBtns = $.querySelectorAll(".radio-btn-points");
 const submitBtn = $.querySelector(".submit-btn");
 
 let checkedRadioBtn = 0;
